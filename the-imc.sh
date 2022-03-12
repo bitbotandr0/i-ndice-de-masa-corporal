@@ -1,7 +1,7 @@
 #!/bin/bash
-#script que calcula el índice de masa corporal y la ed>
-#creado el 1/2/2022 por Eduardo Patiño                                    #phantom
-                                                       cowthink -f ghostbusters "Phantom X"
+pkg install cowsay || apt-get install cowsay
+pkg install bc || apt-get install bc
+                                 >                      cowthink -f ghostbusters "Phantom X"
 
 echo  "Bienvenid@ a imc.edad.sh ver2.0"
 sleep 0.5
@@ -14,6 +14,8 @@ sleep 0.5
 echo "según los datos que me proporciones"
 
 sleep 1
+
+
 
 clear
 
